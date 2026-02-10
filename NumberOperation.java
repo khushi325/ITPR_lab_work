@@ -1,4 +1,3 @@
-package project1;
 /*---- Defining Number class ----*/
 class Number
 {
